@@ -1,9 +1,9 @@
 {
-    "url": "https://demo-resume.netlify.app",
-    "lang": "en",
-    "locale": "en_us",
+    "url": "https://stoic-leavitt-919e42.netlify.app",
+    "lang": "fi",
+    "locale": "fi",
     "colors": {
-        "primary": "#005b96",
-        "secondary": "#fc6767"
+        "primary": "#000000",
+        "secondary": "#ff9900"
     }
 }
